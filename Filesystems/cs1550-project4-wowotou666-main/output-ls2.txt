@@ -1,0 +1,12 @@
+drwxr-xr-x 2 root root 0 .
+drwxr-xr-x 5 wew92 domain users 12:54
+drwxr-xr-x 2 root root 0 dir_0
+drwxr-xr-x 2 root root 0 dir_1
+drwxr-xr-x 2 root root 0 dir_2
+drwxr-xr-x 2 root root 0 dir_3
+drwxr-xr-x 2 root root 0 dir_4
+drwxr-xr-x 2 root root 0 dir_5
+drwxr-xr-x 2 root root 0 dir_6
+drwxr-xr-x 2 root root 0 dir_7
+drwxr-xr-x 2 root root 0 dir_8
+drwxr-xr-x 2 root root 0 dir_9
